@@ -3,3 +3,7 @@ channels:
 dependencies:
 - r-base=3.6
 - r-tidyverse
+- r-httr
+- r-shinydashboard
+- r-leaflet
+- r-curl
